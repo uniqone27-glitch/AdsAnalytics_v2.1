@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "appDataVersion": "v35",
-  "exportedAt": "2026-10-13T07:07:30.983Z",
+  "exportedAt": "2026-10-13T07:36:40.648Z",
   "fileName": "FB Global Online Department Finance_raw data_v1.2_261012.xlsx",
   "rows": [
     {
@@ -31003,7 +31003,7 @@
       "payment": 0,
       "refund": 0,
       "sales": 0,
-      "cost": 16300000,
+      "cost": 14650000,
       "memo": "인건비",
       "account": "인건비",
       "category": "급여",
